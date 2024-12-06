@@ -2,7 +2,7 @@
 Contributors: dalinovate2024
 Tags: call now, Chat Button, Call Us Button, Jetzt Anrufen, WhatsApp widget
 Requires at least: 5.0
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 4.0
 Stable tag: 1.2.0
 License: GPLv2 or later
